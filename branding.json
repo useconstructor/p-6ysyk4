@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#F8F9FA",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#F8F9FA",
+  "textColor": "#173B3A",
+  "accentColor": "#00A896",
+  "fontHeading": "Space Grotesk",
+  "fontBody": "Inter",
+  "borderRadius": "0.25rem",
+  "logoText": "QA Build Directo Notas",
+  "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-6YSYK4/logo.png",
+  "tone": "minimal"
+}
