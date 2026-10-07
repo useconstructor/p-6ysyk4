@@ -15,8 +15,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "NotaRápida | Tu Espacio para Anotar Ideas",
-  description: "Crea notas al instante, búscalas en segundos. Sin registro, sin publicidad, sin distracciones.",
+  title: "QA Build Directo Notas | Notas simples. Ideas que permanecen.",
+  description: "Tu espacio de escritura minimalista para capturar ideas, organizar pensamientos y mantenerte enfocado.",
 };
 
 export default function RootLayout({
